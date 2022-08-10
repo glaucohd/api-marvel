@@ -1,0 +1,6 @@
+package com.example.movies_marvel
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
